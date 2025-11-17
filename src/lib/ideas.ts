@@ -20,7 +20,7 @@ export async function insertIdea(content: string): Promise<Idea> {
   const payload = { content: content.trim() };
   const { data, error } = await supabase
     .from("ideas")
-    .insert(payload)
+    .insert(payload as any)
     .select("id, content, created_at")
     .single();
 
