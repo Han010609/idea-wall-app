@@ -1,0 +1,26 @@
+---
+alwaysApply: true
+---
+## 技術棧
+- 框架：Next.js / React
+- Node 版本：.nvmrc
+- 資料庫/後端：Supabase
+- 樣式：Tailwind CSS
+- 元件庫：Shadcn UI（如需要）
+- 狀態管理：Zustand（如需要）
+
+## 開發原則
+- 優先搜尋業界常用套件
+- 實作 RWD 響應式設計
+- 建立 .gitignore（排除 node_modules, .env.local 等）
+
+## 專案結構
+- README.md：包含專案介紹、功能列表、安裝步驟、部屬、環境變數說明
+- /plan：存放設計規格的 Markdown 文件
+
+## 部署
+- Vercel
+
+## 環境變數需求
+- NEXT_PUBLIC_SUPABASE_URL
+- NEXT_PUBLIC_SUPABASE_ANON_KEY
