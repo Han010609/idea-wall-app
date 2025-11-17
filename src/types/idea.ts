@@ -4,3 +4,4 @@ export type Idea = {
   created_at: string;
 };
 
+

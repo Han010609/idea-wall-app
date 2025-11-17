@@ -24,3 +24,4 @@ export function IdeaGrid({ ideas, onDelete, isDeleting, deleteTargetId }: IdeaGr
   );
 }
 
+

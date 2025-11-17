@@ -44,3 +44,4 @@ export function IdeaCard({ idea, onDeleteClick, isDeleting, deleteTargetId }: Id
   );
 }
 
+

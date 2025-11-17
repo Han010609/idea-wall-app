@@ -12,3 +12,4 @@ export function getSupabaseEnv() {
   return { url, key };
 }
 
+
