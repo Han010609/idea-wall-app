@@ -118,7 +118,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY
 **整體時間**
 - 13:00 ~ 13:30 (大概) 先完成 supabase 創建 idea-wall 的 table
 - 中間出門
-- 21:15 ~ 21:27 先問 Claude 大致方向 & 在 cursor 當中新增 projerct rules
+- 21:15 ~ 21:27 先問 Claude 大致方向 & 在 cursor 當中新增 project rules
 - 21:27 ~ 22:14 做完初版 本地 可以 讀到 supabase 也可以寫入 刪除
 - 22:18 ~ 22:41 部屬到 vercal
 - 完成
