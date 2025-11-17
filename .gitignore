@@ -1,0 +1,28 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+idea-wall-app/node_modules/
+
+# Build output
+.next/
+idea-wall-app/.next/
+out/
+dist/
+
+# Env files
+.env
+.env.*
+!.env.example
+.env.local
+
+# Misc
+.DS_Store
+*.swp
+.vercel
+.turbo
+
+
